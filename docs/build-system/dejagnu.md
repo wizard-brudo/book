@@ -19,9 +19,7 @@
 ```bash 
 {{ include('../packages/dejagnu/test') }}
 ```
-```bash 
-{{ include('../packages/dejagnu/test') }}
-```
+
 
 ## Установленные файлы
 
